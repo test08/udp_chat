@@ -1,0 +1,8 @@
+C:\Users\ri\AppData\Local\Temporary Projects\udp\bin\Debug\udp.exe
+C:\Users\ri\AppData\Local\Temporary Projects\udp\bin\Debug\udp.pdb
+C:\Users\ri\AppData\Local\Temporary Projects\udp\obj\x86\Debug\udp.exe
+C:\Users\ri\AppData\Local\Temporary Projects\udp\obj\x86\Debug\udp.pdb
+C:\Users\ri\documents\visual studio 2010\Projects\udp\udp\obj\x86\Debug\udp.exe
+C:\Users\ri\documents\visual studio 2010\Projects\udp\udp\obj\x86\Debug\udp.pdb
+C:\Users\ri\documents\visual studio 2010\Projects\udp\udp\bin\Debug\udp.exe
+C:\Users\ri\documents\visual studio 2010\Projects\udp\udp\bin\Debug\udp.pdb
